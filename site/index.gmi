@@ -43,9 +43,9 @@ Other places you'll find me in Geminispace:
 
 Also related:
 
-=> gopher://tilde.team/1/~davep/
+=> gopher://tilde.town/1/~davep/
 => finger://plan.cat/davep
-=> finger://tilde.team/davep
+=> finger://tilde.town/davep
 
 ## Gemlog
 
